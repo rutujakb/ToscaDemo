@@ -1,0 +1,4 @@
+[3] 4:10:27 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws'
+[3] 4:10:27 PM: Log level: 4
+[3] 4:10:27 PM: Release: 12.2.0.25009
+[4] 4:10:27 PM:  ShowStatusInfo: 'Ready'

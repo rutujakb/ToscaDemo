@@ -1,0 +1,33 @@
+[3] 4:31:34 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws'
+[3] 4:31:34 PM: Log level: 4
+[3] 4:31:34 PM: Release: 12.2.4.18
+[3] 4:31:35 PM: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 4:31:45 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 12.2.0.1119 (24726)
+[3] 4:31:45 PM:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 12.2.0.1119 (24726)
+[3] 4:31:45 PM:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 12.2.0.1119 (24726)
+[3] 4:31:45 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 12.2.0.1119 (24726)
+    + : SAPSolutionManagerIntegration 12.2.2.39 (39)
+[3] 4:31:45 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 4:31:46 PM: Searcher found 0 results in 261.1827 ms
+[3] 4:31:46 PM:  + OptIntAddIn: OptIntAddIn 12.2.0.1119 (24726)
+[3] 4:31:46 PM:  + RemoteControl: RemoteControlAddIn 12.2.0.1119 (24726)
+[3] 4:31:46 PM:  + Reporting: ReportingAddIn 12.2.0.1119 (24726)
+[3] 4:31:46 PM:  + ReportingUI: ReportingUIAddIn 12.2.0.1119 (24726)
+[3] 4:31:46 PM:  - RequirementsManagementAddIn: RequirementsManagement 12.2.0.1119 (24726)
+[3] 4:31:46 PM:  - RequirementsManagementUIAddIn: RequirementsManagementUI 12.2.0.1119 (24726)
+[3] 4:31:46 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 12.2.0.1119 (24726)
+[3] 4:31:46 PM:  - TestCaseDesign: TestCaseDesign 12.2.0.1119 (24726)
+[3] 4:31:46 PM:  - ControlFlowDiagram: TestCaseVisualizationAddIn 12.2.0.1119 (24726)
+[3] 4:31:46 PM:  + XDefinitions: XDefinitions 12.2.0.1119 (24978)
+[3] 4:31:46 PM:  + XDefinitionsUI: XDefinitionsUI 12.2.0.1119 (24726)
+[3] 4:31:47 PM: Search started on 'First Steps' for query '=>SUBPARTS:TCFolder[(PossibleContent=?"ExecutionList") AND (ContinuousIntegrationBuildRootFolder=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 4:31:47 PM: Searcher found 1 results in 636.4516 ms
+[3] 4:31:47 PM: Search started on 'First Steps' for query '=>SUBPARTS:ExecutionList[(ContinuousIntegration=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 4:31:47 PM: Searcher found 1 results in 15.0099 ms
+[3] 4:31:48 PM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.CreateTCFolderTask
+[3] 4:31:48 PM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.CreateExecutionMandateTask
+[3] 4:31:49 PM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.ClearActuallExecutionLogTask
+[3] 4:31:49 PM: API: Executing DropTask Tricentis.TCCore.BusinessObjects.Tasks.AssignMandateDropTask
+[3] 4:31:49 PM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.RunExecutionListTask
+[3] 10:25:54 PM: AgentResults count: 10
+[3] 10:26:21 PM: executionResponses count: 9

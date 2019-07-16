@@ -1,0 +1,22 @@
+[3] 10:06:00 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws'
+[3] 10:06:00 PM: Log level: 4
+[3] 10:06:01 PM: Release: 12.2.0.25009
+[3] 10:06:32 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 12.2.0.1119 (24726)
+[3] 10:06:32 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 12.2.0.1119 (24726)
+[3] 10:06:33 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 12.2.0.1119 (24726)
+[3] 10:06:33 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 12.2.0.1119 (24726)
+    + : SAPSolutionManagerIntegration 12.2.2.39 (39)
+[3] 10:06:33 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 10:06:37 PM: Searcher found 0 results in 3828.7747 ms
+[3] 10:06:40 PM:  + OptIntAddIn: OptIntAddIn 12.2.0.1119 (24726)
+[3] 10:06:40 PM:  + RemoteControl: RemoteControlAddIn 12.2.0.1119 (24726)
+[3] 10:06:40 PM:  + Reporting: ReportingAddIn 12.2.0.1119 (24726)
+[3] 10:06:40 PM:  + ReportingUI: ReportingUIAddIn 12.2.0.1119 (24726)
+[3] 10:06:40 PM:  + RequirementsManagementAddIn: RequirementsManagement 12.2.0.1119 (24726)
+[3] 10:06:40 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 12.2.0.1119 (24726)
+[3] 10:06:40 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 12.2.0.1119 (24726)
+[3] 10:06:42 PM:  + TestCaseDesign: TestCaseDesign 12.2.0.1119 (24726)
+[3] 10:06:42 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 12.2.0.1119 (24726)
+[3] 10:06:44 PM:  + XDefinitions: XDefinitions 12.2.0.1119 (24978)
+[3] 10:06:45 PM:  + XDefinitionsUI: XDefinitionsUI 12.2.0.1119 (24726)
+[3] 10:06:45 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws'

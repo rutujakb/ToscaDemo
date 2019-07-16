@@ -1,0 +1,24 @@
+[3] 10:46:18 AM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws'
+[3] 10:46:18 AM: Log level: 4
+[3] 10:46:18 AM: Release: 12.2.4.18
+[3] 10:46:19 AM: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 10:46:26 AM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 12.2.0.1119 (24726)
+[3] 10:46:26 AM:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 12.2.0.1119 (24726)
+[3] 10:46:26 AM:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 12.2.0.1119 (24726)
+[3] 10:46:26 AM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 12.2.0.1119 (24726)
+    + : SAPSolutionManagerIntegration 12.2.2.39 (39)
+[3] 10:46:26 AM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 10:46:27 AM: Searcher found 0 results in 587.3345 ms
+[3] 10:46:27 AM:  + OptIntAddIn: OptIntAddIn 12.2.0.1119 (24726)
+[3] 10:46:27 AM:  + RemoteControl: RemoteControlAddIn 12.2.0.1119 (24726)
+[3] 10:46:27 AM:  + Reporting: ReportingAddIn 12.2.0.1119 (24726)
+[3] 10:46:27 AM:  + ReportingUI: ReportingUIAddIn 12.2.0.1119 (24726)
+[3] 10:46:27 AM:  - RequirementsManagementAddIn: RequirementsManagement 12.2.0.1119 (24726)
+[3] 10:46:27 AM:  - RequirementsManagementUIAddIn: RequirementsManagementUI 12.2.0.1119 (24726)
+[3] 10:46:27 AM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 12.2.0.1119 (24726)
+[3] 10:46:27 AM:  - TestCaseDesign: TestCaseDesign 12.2.0.1119 (24726)
+[3] 10:46:27 AM:  - ControlFlowDiagram: TestCaseVisualizationAddIn 12.2.0.1119 (24726)
+[3] 10:46:27 AM:  + XDefinitions: XDefinitions 12.2.0.1119 (24978)
+[3] 10:46:27 AM:  + XDefinitionsUI: XDefinitionsUI 12.2.0.1119 (24726)
+[3] 10:46:32 AM: Closing Workspace
+[3] 10:46:33 AM: Log closed!
