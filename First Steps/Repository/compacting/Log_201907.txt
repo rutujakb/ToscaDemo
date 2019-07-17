@@ -1637,3 +1637,27 @@
 [Info] 7/16/2019 4:23:48 PM: 37/100 - Defragmenting Data - [estimated time left 41 s]
 [Info] 7/16/2019 4:23:49 PM: 39/100 - Defragmenting Data - [estimated time left 40 s]
 [Info] 7/16/2019 4:23:50 PM: 40/100 - Defragmenting Data - [estimated time left 39 s]
+[Error] 7/16/2019 5:11:30 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 7/16/2019 5:11:30 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 7/16/2019 5:11:30 PM: Error loading application parameters, falling back to default.
+[Info] 7/16/2019 5:11:30 PM: 0/100 - Defragmenting Data - [estimated time left 1:7 m]
+[Info] 7/16/2019 5:11:30 PM: 1/100 - Defragmenting Data - [estimated time left 1:6 m]
+[Info] 7/16/2019 5:11:31 PM: 3/100 - Defragmenting Data - [estimated time left 1:5 m]
+[Info] 7/16/2019 5:11:32 PM: 4/100 - Defragmenting Data - [estimated time left 1:4 m]
+[Info] 7/16/2019 5:11:33 PM: 6/100 - Defragmenting Data - [estimated time left 1:3 m]
+[Info] 7/16/2019 5:11:34 PM: 7/100 - Defragmenting Data - [estimated time left 1:2 m]
+[Info] 7/16/2019 5:11:34 PM: Compacting started
+[Info] 7/16/2019 5:11:35 PM: 9/100 - Defragmenting Data - [estimated time left 1:1 m]
+[Info] 7/16/2019 5:11:36 PM: 10/100 - Defragmenting Data - [estimated time left 1:0 m]
+[Info] 7/16/2019 5:11:37 PM: 12/100 - Defragmenting Data - [estimated time left 59 s]
+[Info] 7/16/2019 5:11:37 PM: Compacting Workspace - Defragmentation finished in 00:00:02.8271093, database size: 28696576
+[Info] 7/16/2019 5:11:38 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.5177127, database size: 28696576
+[Info] 7/16/2019 5:11:38 PM: Compacting finished
+[Info] 7/16/2019 5:11:38 PM: 13/100 - Defragmenting Data - [estimated time left 58 s]
+[Info] 7/16/2019 5:11:39 PM: 15/100 - Defragmenting Data - [estimated time left 57 s]
+[Info] 7/16/2019 5:11:40 PM: 16/100 - Defragmenting Data - [estimated time left 56 s]
+[Info] 7/16/2019 5:11:41 PM: 18/100 - Defragmenting Data - [estimated time left 55 s]
+[Info] 7/16/2019 5:11:42 PM: 19/100 - Defragmenting Data - [estimated time left 54 s]

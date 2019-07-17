@@ -1,0 +1,122 @@
+[3] 5:07:06 PM: Log started for 'H:\TOSCA\ToscaDemo\First Steps\First Steps.tws'
+[3] 5:07:06 PM: Log level: 4
+[3] 5:07:06 PM: Release: 12.2.0.25009
+[3] 5:07:06 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 12.2.0.1119 (24726)
+[3] 5:07:06 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 12.2.0.1119 (24726)
+[3] 5:07:06 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 12.2.0.1119 (24726)
+[3] 5:07:06 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 12.2.0.1119 (24726)
+    + : SAPSolutionManagerIntegration 12.2.2.39 (39)
+[3] 5:07:06 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 5:07:07 PM: Searcher found 0 results in 511.6576 ms
+[3] 5:07:07 PM:  + OptIntAddIn: OptIntAddIn 12.2.0.1119 (24726)
+[3] 5:07:07 PM:  + RemoteControl: RemoteControlAddIn 12.2.0.1119 (24726)
+[3] 5:07:07 PM:  + Reporting: ReportingAddIn 12.2.0.1119 (24726)
+[3] 5:07:07 PM:  + ReportingUI: ReportingUIAddIn 12.2.0.1119 (24726)
+[3] 5:07:07 PM:  + RequirementsManagementAddIn: RequirementsManagement 12.2.0.1119 (24726)
+[3] 5:07:07 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 12.2.0.1119 (24726)
+[3] 5:07:07 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 12.2.0.1119 (24726)
+[3] 5:07:07 PM:  + TestCaseDesign: TestCaseDesign 12.2.0.1119 (24726)
+[3] 5:07:07 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 12.2.0.1119 (24726)
+[3] 5:07:07 PM:  + XDefinitions: XDefinitions 12.2.0.1119 (24978)
+[3] 5:07:07 PM:  + XDefinitionsUI: XDefinitionsUI 12.2.0.1119 (24726)
+[3] 5:07:07 PM: Opened from Workspace File 'H:\TOSCA\ToscaDemo\First Steps\First Steps.tws'
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import_6''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import_7''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import_8''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import_9''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import_6''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import_7''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import_8''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import_9''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 5:07:16 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import_6''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import_7''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import_8''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import_9''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import_6''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import_7''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import_8''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import_9''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import_6''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import_7''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import_8''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import_9''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import_6''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import_7''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import_8''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import_9''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 5:07:17 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 5:07:17 PM: OpenWorkspace took 00:00:13.0498340 to finish
+[4] 5:07:22 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:23 PM:  ShowStatusInfo: '1 object selected'
+[4] 5:07:23 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:27 PM:  ShowStatusInfo: '1 object selected'
+[4] 5:07:27 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:29 PM:  ShowStatusInfo: '1 object selected'
+[4] 5:07:29 PM:  ShowStatusInfo: 'Ready'
+[4] 5:07:35 PM:  ShowStatusInfo: '1 object selected'
+[4] 5:07:35 PM:  ShowStatusInfo: 'Ready'
+[4] 5:08:40 PM:  ShowStatusInfo: '1 object selected'
+[4] 5:08:40 PM:  ShowStatusInfo: 'Ready'
+[4] 5:08:49 PM:  ShowStatusInfo: '1 object selected'
+[4] 5:08:49 PM:  ShowStatusInfo: 'Ready'
+[4] 5:08:50 PM:  ShowStatusInfo: 'Saving ...'
+[3] 5:08:50 PM:  Save started!
+[3] 5:08:51 PM:  Save finished!
+[4] 5:08:51 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 5:08:56 PM:  ShowStatusInfo: 'Ready'
+[4] 5:10:04 PM:  ShowStatusInfo: '1 object selected'
+[4] 5:10:06 PM:  ShowStatusInfo: 'Ready'
+[4] 5:10:06 PM:  ShowStatusInfo: '1 object selected'
+[4] 5:10:07 PM:  ShowStatusInfo: 'Ready'
+[4] 5:10:07 PM:  ShowStatusInfo: '1 object selected'
+[4] 5:10:07 PM:  ShowStatusInfo: 'Ready'
+[3] 5:11:26 PM: Closing Workspace!
+[3] 5:11:27 PM: Log closed!
